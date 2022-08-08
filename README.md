@@ -1,4 +1,4 @@
-# web-portfolio-yumi
+# web-profile
 
 このプロジェクトは、ポートフォリオのソースコードです。
 
